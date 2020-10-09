@@ -22,9 +22,20 @@ By Marieke Engel & Murielle Ingrid Kamegne
 
 ---
 
-  1. Direct Network Effect 
+1. Direct Network Effect 
     
-    _The same-side-effect_
+_The same-side-effect_
 
   * The value of a good goes up as the number of users goes up
 
+---
+
+2. Indiret Network Effect
+
+_The cross-side-effect_
+
+  * The value of a good increases for one user group if a new user of different group joins the network
+
+  ---
+
+  
