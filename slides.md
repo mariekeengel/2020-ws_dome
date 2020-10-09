@@ -16,7 +16,7 @@ By Marieke Engel & Murielle Ingrid Kamegne
 
   * As more people participate the network, the experience is more beneficial for the others and may encourage new participants to join
 
-  ---
+---
 
   ## Types of Network Effects
 
