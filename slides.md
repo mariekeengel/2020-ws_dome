@@ -1,6 +1,6 @@
 # Hallo Welt
 
-Digitales ist klasse!
+Digital Organization WS 2020
 
 ---
 
