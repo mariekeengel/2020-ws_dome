@@ -18,4 +18,11 @@ By Marieke Engel & Murielle Ingrid Kamegne
 
   ---
 
-  
+  ## Types of Network Effects
+
+  1. Direct Network Effect 
+
+  _The same-side-effect_
+
+  * The value of a good goes up as the number of users goes up
+
