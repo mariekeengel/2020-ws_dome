@@ -1,4 +1,3 @@
-# Hallo Welt
 
 Digital Organization WS 2020
 
