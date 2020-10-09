@@ -6,7 +6,10 @@ By Marieke Engel & Murielle Ingrid Kamegne
 
 ---
 
-## What is a Network Effect?
+## Imagine that ...
 
 ---
 
+## The concept of a **Network Effect**
+
+  * a phenomena whereby an increased number 
