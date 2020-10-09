@@ -2,6 +2,8 @@
 
 Digital Organization WS 2020
 
+By Marieke Engel & Murielle Ingrid Kamegne 
+
 ---
 
 ## Neue Seite
@@ -9,3 +11,5 @@ Digital Organization WS 2020
 1. Hallo
 
 2. sdf
+
+---
