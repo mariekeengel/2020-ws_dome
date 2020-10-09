@@ -6,10 +6,7 @@ By Marieke Engel & Murielle Ingrid Kamegne
 
 ---
 
-## Neue Seite
-
-1. Hallo
-
-2. sdf
+## What is a Network Effect?
 
 ---
+
