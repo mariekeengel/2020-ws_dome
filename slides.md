@@ -12,4 +12,10 @@ By Marieke Engel & Murielle Ingrid Kamegne
 
 ## The concept of a **Network Effect**
 
-  * a phenomena whereby an increased number 
+  * A phenomena whereby an increased number of people improve the value of a good/service
+
+  * As more people participate the network, the experience is more beneficial for the others and may encourage new participants to join
+
+  ---
+
+  
