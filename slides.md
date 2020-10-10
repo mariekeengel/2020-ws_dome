@@ -78,7 +78,7 @@ __Facebook__:
 ### - Users have to pay a fee to use certain applications
 
 ### - When reaching the critical mass, the cost of joining the network is
-      outweighed by the value of joining
+###   outweighed by the value of joining
 
 ---
 
