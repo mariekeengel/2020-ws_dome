@@ -24,9 +24,9 @@
    
    _The same-side-effect_
 
-  * The value of a good goes up as the number of users goes up
+* The value of a good goes up as the number of users goes up
 
-  * Telephone ex.: It is only useful if the people you'd like to reach also
+* Telephone ex.: It is only useful if the people you'd like to reach also
     have telephones
 
 ---
