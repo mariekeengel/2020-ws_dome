@@ -74,12 +74,10 @@ __Facebook__:
 # Cost-Benefit Analysis of Joining a Network [fit]
 
 - Network users have to buy hardware
-
 - Users have to pay a fee to use certain applications
-
-- When reaching the critical mass, the cost of joining the network is
-  outweighed by the value of joining
-
+- When reaching the critical mass, the cost of joining 
+  the network is outweighed by the value of joining
+  
 ---
 
 # How can we optimize the Network Effect?
