@@ -26,7 +26,8 @@
 
   * The value of a good goes up as the number of users goes up
 
-  * 
+  * Telephone ex.: It is only useful if the people you'd like to reach also
+    have telephones
 
 ---
 
@@ -38,14 +39,14 @@
 
   * Two or more user groups are necessary
 
-  * Only applicable to businesses platforms
+  * Only applicable to businesses platforms (that have two groups)
 
   ---
 
-  MODEL UBER
+  IMAGE UBER
 
   ---
-
+  
 ## Examples of Network Effects
 
 __Facebook__:
