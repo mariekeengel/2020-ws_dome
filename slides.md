@@ -6,7 +6,7 @@ By Marieke Engel & Murielle Ingrid Kamegne
 
 ---
 
-## Imagine that ... :umbrella
+## Imagine that ... 
 
 ---
 
