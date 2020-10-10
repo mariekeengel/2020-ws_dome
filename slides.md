@@ -86,23 +86,23 @@ __Facebook__:
 
 ---
 
-# 1. Community
+## 1. Community
 
 ---
 
-# 2. Connection
+## 2. Connection
 
 ---
 
-# 3. Communication
+## 3. Communication
 
 ---
 
-# 4. Curation
+## 4. Curation
 
 ---
 
-# 5. Collaboration
+## 5. Collaboration
 
 ---
 
