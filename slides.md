@@ -1,8 +1,8 @@
-# The Network Effect
+# [fit] The Network Effect
 
-Digital Organization WS 2020
+## Digital Organization WS 2020
 
-By Marieke Engel & Murielle Ingrid Kamegne 
+### By Marieke Engel & Murielle Ingrid Kamegne 
 
 ---
 
@@ -10,7 +10,7 @@ By Marieke Engel & Murielle Ingrid Kamegne
 
 ---
 
-## The concept of a **Network Effect**
+## The concept of a Network Effect
 
   * A phenomena whereby an increased number of people improve the value of a good/service
 
@@ -38,7 +38,11 @@ _The cross-side-effect_
 
   ---
 
-  https://www.menti.com/2yga1ubr6d
+https://www.menti.com/2yga1ubr6d
+
+---
+
+
 
 
   
