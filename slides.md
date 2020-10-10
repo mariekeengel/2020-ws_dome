@@ -1,8 +1,8 @@
-# [fit] The Network Effect
+# The Network Effect
 
-## [fit] Digital Organization WS 2020
+Digital Organization WS 2020
 
-### [fit] By Marieke Engel & Murielle Ingrid Kamegne 
+By Marieke Engel & Murielle Ingrid Kamegne 
 
 ---
 
