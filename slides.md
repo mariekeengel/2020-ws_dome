@@ -52,7 +52,7 @@ __Facebook__:
 
 ---
 
-[Could you name other examples that grow through the Network Effect?](https://www.menti.com/2yga1ubr6d)
+[Could you name other examples that grow through the Network Effect?](https://www.mentimeter.com/s/737a6ddc3727532e2593ee61d7bb2ea3/5e3e932f15b2)
 
 ![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=https://www.menti.com/2yga1ubr6d)
 
@@ -109,7 +109,7 @@ __Facebook__:
 
 ---
 
-## [Any Questions?](https://www.menti.com/2yga1ubr6d)
+## [Any Questions?](https://www.mentimeter.com/s/737a6ddc3727532e2593ee61d7bb2ea3/5e3e932f15b2)
 
 ---
 
