@@ -47,7 +47,7 @@ _The cross-side-effect_
   MODEL UBER
 
   ---
-  
+
 # Examples of Network Effects
 
 __Facebook__:
@@ -58,10 +58,52 @@ __Facebook__:
 
 ![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=https://www.menti.com/2yga1ubr6d)
 
+---
+
+# Other Examples
+
+- Social Media
+- Telephones
+- Microsoft Office
+- Apple/Apps
+- Bitcoin
+- Modern Stock Exchanges
+
+---
+
+# Cost-Benefit Analysis of Joining a Network
+
+- Network users have to buy hardware
+
+- Users have to pay a fee to use certain applications
+
+- When reaching the critical mass, the cost of joining the network is
+  outweighed by the value of joining
+
+---
+
+# How can we optimize the Network Effect?
+
+---
+
+1. __Community__
+
+---
+
+2. Connection
+
+---
+
+3. Communication
+
+---
+
+4. Curation
+
+---
+
+5. Collaboration
+
+---
 
 
-
-
-
-
-  
