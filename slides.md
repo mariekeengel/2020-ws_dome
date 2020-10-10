@@ -28,6 +28,8 @@ _The same-side-effect_
 
   * The value of a good goes up as the number of users goes up
 
+  * 
+
 ---
 
 2. Indiret Network Effect
@@ -36,11 +38,28 @@ _The cross-side-effect_
 
   * The value of a good increases for one user group if a new user of different group joins the network
 
+  * Two or more user groups are necessary
+
+  * Only applicable to businesses platforms
+
   ---
 
-https://www.menti.com/2yga1ubr6d
+  MODEL UBER
+
+  ---
+
+# Examples of Network Effects
+
+__Facebook__:
 
 ---
+
+[Could you name other examples that grow through the Network Effect?] (https://www.menti.com/2yga1ubr6d)
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=https://www.menti.com/2yga1ubr6d)
+
+
+
 
 
 
