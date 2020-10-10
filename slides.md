@@ -71,13 +71,13 @@ __Facebook__:
 
 ---
 
-# [fit]Cost-Benefit Analysis of Joining a Network
+# [fit] Cost-Benefit Analysis of Joining a Network
 
-- [fit]Network users have to buy hardware
+- [fit] Network users have to buy hardware
 
-- [fit]Users have to pay a fee to use certain applications
+- [fit] Users have to pay a fee to use certain applications
 
-- [fit]When reaching the critical mass, the cost of joining the network is
+- [fit] When reaching the critical mass, the cost of joining the network is
   outweighed by the value of joining
 
 ---
