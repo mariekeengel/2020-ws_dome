@@ -102,4 +102,23 @@ __Facebook__:
 
 ---
 
+## Critics of the Network Effect
+
+- __Congestion__ is a negative network effect because too many users can slow down a network
+- The __critical mass__ is fundamental for a network effect to work
+
+---
+
+[Any Questions?](https://www.menti.com/2yga1ubr6d)
+
+---
+
+## Thank YOU for listening!
+
+---
+
+## References
+
+
+
 
