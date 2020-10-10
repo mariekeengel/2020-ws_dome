@@ -49,9 +49,9 @@
   
 ## Examples of Network Effects
 
-__SUCCESS__: Facebook
+__Success__: Facebook
 
-__FAILURE__: Mini Discs
+__Failure__: Mini Disc
 
 ---
 
