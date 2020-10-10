@@ -46,7 +46,7 @@ _The cross-side-effect_
 
   ---
 
-# Examples of Network Effects
+## Examples of Network Effects
 
 __Facebook__:
 
@@ -58,7 +58,7 @@ __Facebook__:
 
 ---
 
-# Other Examples
+## Other Examples
 
 - Social Media
 - Telephones
@@ -78,7 +78,7 @@ __Facebook__:
 
 ---
 
-# How can we optimize the Network Effect?
+## How can we optimize the Network Effect?
 
 ---
 
