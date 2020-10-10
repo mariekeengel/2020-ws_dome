@@ -71,7 +71,7 @@ __Facebook__:
 
 ---
 
-# [fit]Cost-Benefit Analysis of Joining a Network
+# Cost-Benefit Analysis of Joining a Network [fit]
 
 - Network users have to buy hardware
 
