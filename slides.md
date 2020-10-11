@@ -16,6 +16,8 @@
 
 ---
 
+![Telephone](Telephone.png)
+
   ## Types of Network Effects
 
 ---
