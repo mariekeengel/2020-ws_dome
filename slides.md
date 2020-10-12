@@ -129,7 +129,7 @@ __Failure__: Mini Disc
 
 __Banton__ C. (2019). Network Effect. Retrieved 09/10/2020 from https://www.investopedia.com/terms/n/network-effect.asp
 
-Corporatefinanceinstitut (2020). What is a Network Effecz. Retrieved 09/10/2020 from https://corporatefinanceinstitute.com/resources/knowledge/economics/what-is-network-effect/
+Corporatefinanceinstitut (2020). What is a Network Effect. Retrieved 09/10/2020 from https://corporatefinanceinstitute.com/resources/knowledge/economics/what-is-network-effect/
 
 Economicshelp (2020). Network Effects - definition and examples. Retrieved from 09/10/2020 from https://www.economicshelp.org/blog/glossary/network-effects/
 
