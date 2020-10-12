@@ -66,7 +66,6 @@ __Failure__: Mini Disc
 ## Other Examples
 
 - Social Media
-- Telephones
 - Microsoft Office
 - Apple/Apps
 - Bitcoin
@@ -83,7 +82,7 @@ __Failure__: Mini Disc
 
 ---
 
-## How can we optimize the Network Effect?
+## How can we optimize the Network Effect? (5 C's)
 
 ---
 
