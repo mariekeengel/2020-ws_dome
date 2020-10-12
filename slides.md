@@ -10,13 +10,13 @@
 
 ## The concept of a Network Effect
 
-  * A phenomena whereby an increased number of people improve the value of a good/service
+- A phenomena whereby an increased number of people improve the value of a good/service
 
-  * As more people participate the network, the experience is more beneficial for the others and may encourage new participants to join
+- As more people participate the network, the experience is more beneficial for the others and may encourage new participants to join
 
 ---
 
-![Telephone](Telephone.jpg)
+TELEPHONE
 
   ## Types of Network Effects
 
@@ -26,9 +26,9 @@
    
    _The same-side-effect_
 
-* The value of a good goes up as the number of users goes up
+- The value of a good goes up as the number of users goes up
 
-* Telephone ex.: It is only useful if the people you'd like to reach also
+- Telephone ex.: It is only useful if the people you'd like to reach also
     have telephones
 
 ---
@@ -37,15 +37,15 @@
 
    _The cross-side-effect_
 
-  * The value of a good increases for one user group if a new user of different group joins the network
+-  The value of a good increases for one user group if a new user of different group joins the network
 
-  * Two or more user groups are necessary
+-  Two or more user groups are necessary
 
-  * Only applicable to businesses platforms (that have two groups)
+-  Only applicable to businesses platforms (that have two groups)
 
   ---
 
-  IMAGE UBER
+UBER
 
   ---
   
@@ -114,6 +114,8 @@ __Failure__: Mini Disc
 ---
 
 ## [Any Questions?](https://www.mentimeter.com/s/737a6ddc3727532e2593ee61d7bb2ea3/5e3e932f15b2)
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=https://www.menti.com/2yga1ubr6d)
 
 ---
 
