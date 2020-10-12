@@ -18,6 +18,8 @@
 
 TELEPHONE
 
+---
+
   ## Types of Network Effects
 
 ---
