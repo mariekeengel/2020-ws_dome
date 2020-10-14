@@ -4,7 +4,8 @@
 
 ---
 
-## Imagine that ... :thought_balloon: 
+## Imagine that ... 
+![Thought](Cloud.png)
 
 ---
 
