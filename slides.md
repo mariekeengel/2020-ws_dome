@@ -54,9 +54,9 @@
   
 ## Examples of Network Effects
 
-__Success__: Facebook
+> __Success__: Facebook
 
-__Failure__: Mini Disc
+> __Failure__: Mini Disc
 
 ---
 
@@ -135,9 +135,4 @@ __Failure__: Mini Disc
 ###### Economicshelp (2020). Network Effects - definition and examples. Retrieved from 09/10/2020 from https://www.economicshelp.org/blog/glossary/network-effects/
 
 ###### __Johnson__ N.J. (2020). What are Network Effects. Retrieved from 09/10/2020 from https://www.applicoinc.com/blog/network-effects/
-
-
-
-
-
 
