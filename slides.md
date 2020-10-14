@@ -16,7 +16,7 @@
 
 ---
 
-![Telephone_1.png](Telephone_1.png)
+TELEPHONE
 
 ---
 
@@ -30,8 +30,8 @@
 
 - The value of a good goes up as the number of users goes up
 
-- Telephone ex.: It is only useful if the people you'd like to reach also
-    have telephones
+- Examples: Telephones, Fax machines, Email
+          Telephone is direct because the value of a telephone increases as the number of telephone users increases. 
 
 ---
 
@@ -45,11 +45,15 @@
 
 -  Only applicable to businesses platforms (that have two groups)
 
-  ---
+-Examples: Operating system software(Windows, Mac), ATM Network
+
+---
+
 
 UBER
 
-  ---
+
+---
   
 ## Examples of Network Effects
 
@@ -88,23 +92,23 @@ __Failure__: Mini Disc
 
 ---
 
-## 1. Community
+## 1. Connection
 
 ---
 
-## 2. Connection
+## 2. Communication
 
 ---
 
-## 3. Communication
+## 3. Curation
 
 ---
 
-## 4. Curation
+## 4. Collaboration
 
 ---
 
-## 5. Collaboration
+## 5. Community
 
 ---
 
