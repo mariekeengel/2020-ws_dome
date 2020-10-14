@@ -5,7 +5,7 @@
 ---
 
 ## Imagine that ... 
-![Thought](Cloud.png)
+[fit]![Thought](Cloud.png)
 
 ---
 
@@ -46,11 +46,11 @@
 
 -  Only applicable to businesses platforms (that have two groups)
 
-  ---
+---
 
 ![Uber](UBER.png)
 
-  ---
+---
   
 ## Examples of Network Effects
 
