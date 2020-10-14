@@ -21,7 +21,7 @@
 
 ---
 
-  ## Types of Network Effects
+## Types of Network Effects
 
 ---
 
@@ -128,6 +128,7 @@ __Failure__: Mini Disc
 
 ## References
 
+"editor.fontSize":10,
 __Banton__ C. (2019). Network Effect. Retrieved 09/10/2020 from https://www.investopedia.com/terms/n/network-effect.asp
 
 Corporatefinanceinstitut (2020). What is a Network Effect. Retrieved 09/10/2020 from https://corporatefinanceinstitute.com/resources/knowledge/economics/what-is-network-effect/
