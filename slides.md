@@ -5,7 +5,7 @@
 ---
 
 ## Imagine that ... 
-![Thought](Cloud.png=100x200)
+![Thought](Cloud.png)
 
 ---
 
