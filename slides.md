@@ -1,3 +1,12 @@
+---
+theme : "night"
+transition: "slide"
+highlightTheme: "monokai"
+logoImg: "logo.png"
+slideNumber: false
+title: "VSCode Reveal intro"
+---
+
 # The Network Effect
 ##### Digital Organization WS 2020
 ###### By Marieke Engel & Murielle Ingrid Kamegne 
