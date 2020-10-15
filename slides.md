@@ -34,7 +34,7 @@ title: "VSCode Reveal intro"
 
 ---
 
-1. Direct Network Effect 
+1. __Direct Network Effect__ 
    
    _The same-side-effect_
 
@@ -45,7 +45,7 @@ title: "VSCode Reveal intro"
 
 ---
 
-2. Indiret Network Effect
+2. __Indiret Network Effect__
 
    _The cross-side-effect_
 
@@ -53,7 +53,7 @@ title: "VSCode Reveal intro"
 
 -  Two or more user groups are necessary
 
--  Only applicable to businesses platforms (that have two groups)
+-  Only applicable to businesses platforms 
 
 ---
 
@@ -94,7 +94,8 @@ title: "VSCode Reveal intro"
 
 ---
 
-## How can we optimize the Network Effect? (5 C's)
+## How can we optimize the Network Effect?
+#### (5 C's)
 
 ---
 
@@ -132,6 +133,8 @@ title: "VSCode Reveal intro"
 ---
 
 ## Thank YOU for listening!
+
+#### https://github.com/mariekeengel/2020-ws_dome
 
 ---
 
