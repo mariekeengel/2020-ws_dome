@@ -128,8 +128,6 @@ title: "VSCode Reveal intro"
 
 ## Any Questions?
 
-![Questionmark](Questionmark.png)
-
 ---
 
 ## Thank YOU for listening!
