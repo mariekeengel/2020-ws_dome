@@ -131,7 +131,8 @@ title: "VSCode Reveal intro"
 
 ## Thank YOU for listening!
 
-#### https://github.com/mariekeengel/2020-ws_dome
+
+###### https://github.com/mariekeengel/2020-ws_dome
 
 ---
 
