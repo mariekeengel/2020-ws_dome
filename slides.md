@@ -40,8 +40,7 @@ title: "VSCode Reveal intro"
 
 - The value of a good goes up as the number of users goes up
 
-- Telephone ex.: It is only useful if the people you'd like to reach also
-    have telephones
+- Telephone: It is only useful if the people you'd like to reach also have telephones
 
 ---
 
